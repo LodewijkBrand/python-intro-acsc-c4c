@@ -11,9 +11,11 @@ Source: Jay Alameda's slides in the Student Folder for Advanced Computing for So
 The steps required (abbreviated):
 
 1. Reset password for PSC (https://apr.psc.edu/) with XSEDE username and associated email.
-2. Visit Bridges OnDemand (https://ondemand.bridges2.psc.edu/) and log.
+2. Visit Bridges OnDemand (https://ondemand.bridges2.psc.edu/) and log-in.
 3. From the toolbar at the top: Interactive Apps > Jupyter Notebook
 4. Configure the number of hours, nodes, account, etc.
+5. Click "Launch".
+6. Once the file manager is up and running you can upload some of the notebooks (extension `.ipynb`) from this project to Bridges.
 
 ## Help
 
